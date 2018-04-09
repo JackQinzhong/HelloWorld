@@ -3,6 +3,7 @@
 MAKRO-SYMMAR 5.6/80 
 MAKRO-EXTENSION /10mm
 
+Add commit changes--------------
 
 永达康 张龙:18588280354
 客户使用Basler相机，在使用PylonVeiw时，打开相机，整个pylonview崩溃。
